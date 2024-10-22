@@ -22,7 +22,7 @@ Halo! Saya adalah seorang dosen di bidang Sistem Informasi dan instruktur untuk 
 ## Kontak
 - Email: [triramdhany@gmail.com]
 - LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/tri-ramdhany-469575126/)]
-- instagram: https://www.instagram.com/triramdhany/?hl=en
+- instagram: [[Instagram Profile](https://www.instagram.com/triramdhany/?hl=en)]
 
 Saya sangat terbuka untuk kolaborasi dan diskusi lebih lanjut. Jangan ragu untuk menghubungi saya jika Anda tertarik untuk bekerja sama atau hanya ingin berdiskusi tentang topik yang menarik!
 
